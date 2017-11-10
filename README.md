@@ -1,6 +1,6 @@
 ##### [My github] (https://github.com/lianxiaozhuang)
-##### [My cnblogs](https://www.cnblogs.com/lianxiaozhuang/)
-##### [Personal website](www.lianxiaozhuang.com) * 建设中 *
+##### [My cnblogs] (https://www.cnblogs.com/lianxiaozhuang/)
+##### [Personal website] (www.lianxiaozhuang.com) *建设中*
 ### One-lavender
 * 因为喜欢花朵的芬芳
 * 因为喜欢飞翔的自由
