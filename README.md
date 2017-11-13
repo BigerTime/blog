@@ -12,6 +12,8 @@
 # 2017
 
 ####  November
+* 11.13  
+  * ##### [es5新增数组方法的原生实现](https://github.com/lianxiaozhuang/blog/issues/5)
 * 11.11  
   * ##### [正则表达式入门](https://github.com/lianxiaozhuang/blog/issues/4)
 * 11.10
