@@ -14,7 +14,7 @@
 
 ####  November
 * 12.1 
-	* * #### [浅谈Object](https://github.com/lianxiaozhuang/blog/Object)
+	* * #### [浅谈Object](https://github.com/lianxiaozhuang/blog/tree/master/Object)
 * 11.13  
   * #### [es5新增数组方法的原生实现](https://github.com/lianxiaozhuang/blog/issues/5)
 * 11.11  
