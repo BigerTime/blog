@@ -12,7 +12,7 @@
 [root]:https://github.com/lianxiaozhuang/blog
 <!--  -->
 > #### 文章如下请展开
-<details>
+<details open style="list-style:none;">
  <summary> javascript语法</summary>
 
 **<summary>&nbsp;&nbsp;&nbsp;&nbsp;[1、函数提升和变量提升](https://github.com/lianxiaozhuang/blog/tree/master/code/js/1)**
