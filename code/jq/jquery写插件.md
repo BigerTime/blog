@@ -24,6 +24,7 @@
 > 好了下面是时候展现真正的技术了
 > function前的!号(叹号)或者;(分号)这不是写错了,为了防止那个二货写的js结束没有分号；而可能发生报错;最后面的undefined可不写；最好写了；保证里面再出现的undefined是未定义的意思；不被其他东西赋值；
 ```js
+;(function(win,doc,$,undefined){ 
 var addHtml  = function(demo,btn){//插件名，调用的时候直接new一下插件名就行了并传参数或者传对象(一般这个函数名手写字母大写比较好，构造函数嘛，其实也是函数)        //很明显我要传id名；这里传什么都可以的其实；        
         this.div = doc.getElementById(demo);//为什么把获取的id传给this.div呢？this的指向为调用的实例；我们此时姑且认为this就指向这个函数；因为这样我们之后再想获取这个div就可以直接用this.div了好吗；而不是在document.getElementById（。。。。）      
         this.btn  = doc.getElementById(btn);       
