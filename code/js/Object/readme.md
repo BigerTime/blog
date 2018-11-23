@@ -13,7 +13,7 @@
 	console.log(obj.hasOwnProperty("f")) // flase
 	console.log(Object.prototype.hasOwnProperty.call(obj,"toString"))//false
 	
-````
+```
 > 另外这个方法有个特例
      对于 自定义的对象名写成hasOwnProperty；在判断的时候会出问题
 
