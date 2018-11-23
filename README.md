@@ -13,7 +13,7 @@
 <!--  -->
 > #### 文章如下请展开
 <details open style="list-style:none;">
- <summary> javascript语法</summary>
+ <summary><font size=5 color=blue>javascript语法</font> </summary>
 
 **<summary>&nbsp;&nbsp;&nbsp;&nbsp;[1、函数提升和变量提升](https://github.com/lianxiaozhuang/blog/tree/master/code/js/1)**
 </details>
