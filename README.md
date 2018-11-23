@@ -11,17 +11,21 @@
 [name]:lianxiaozhuang
 [root]:https://github.com/lianxiaozhuang/blog
 <!--  -->
-> ### 文章如下请展开
+> ### 文章展开如下
 <details open>
- <summary>javascript语法</summary>
+ <summary>个人随笔</summary>
 
-  **<summary>&nbsp;&nbsp;&nbsp;&nbsp;[1、函数提升和变量提升](https://github.com/lianxiaozhuang/blog/tree/master/code/js/1)</summary>
+
+
+
+**<summary>&nbsp;&nbsp;&nbsp;&nbsp;[2、你不知道的css](https://github.com/lianxiaozhuang/blog/tree/master/code/js/1)**
+**<summary>&nbsp;&nbsp;&nbsp;&nbsp;[1、函数提升和变量提升](https://github.com/lianxiaozhuang/blog/tree/master/code/js/变量提升.md)**
 
 </details>
 <!--  -->
 
 <!--  -->
-<details open>
+<details>
 <summary>jQuery</summary>
 
 **<summary> &nbsp;&nbsp;&nbsp;&nbsp;[1、jquery写插件教程](https://github.com/lianxiaozhuang/blog/tree/master/code/jq/1)**
