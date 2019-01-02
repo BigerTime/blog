@@ -21,7 +21,7 @@
 
 <!-- 1 -->
 <details open>
-<summary>一、js入门和相关实践</summary>
+<summary>一、javascript入门和相关实践</summary>
 
  **<summary> &nbsp;&nbsp;&nbsp;&nbsp;[001_js写插件教程入门](https://github.com/lianxiaozhuang/blog/tree/master/src/01/001_js写插件教程入门.md)**
 **<summary> &nbsp;&nbsp;&nbsp;&nbsp;[002_js写插件教程深入](https://github.com/lianxiaozhuang/blog/tree/master/src/01/002_js写插件教程深入.md)**
