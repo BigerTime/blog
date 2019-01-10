@@ -51,7 +51,7 @@
 **<summary>&nbsp;&nbsp;&nbsp;&nbsp;[2.1、js](https://github.com/lianxiaozhuang/blog/tree/master/src/01/js异步.md)**
 </details>
 <!-- 2 -->
-
+<details open>
 <summary>五、前端工程化</summary>
 
 **<summary>&nbsp;&nbsp;&nbsp;&nbsp;[2.1、js](https://github.com/lianxiaozhuang/blog/tree/master/src/01/js异步.md)**
@@ -65,7 +65,7 @@
 **<summary>&nbsp;&nbsp;&nbsp;&nbsp;[2.1、js](https://github.com/lianxiaozhuang/blog/tree/master/src/01/js异步.md)**
 </details>
 <!-- 2 -->
-<details open>
+
 <!-- 3 -->
 <details open>
 <summary>三、网络协议和前端性能优化</summary>
