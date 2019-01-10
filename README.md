@@ -17,7 +17,6 @@
 <details open>
 <summary>十、设计模式和网络安全</summary>
 
-
 **<summary>&nbsp;&nbsp;&nbsp;&nbsp;[2.1、js](https://github.com/lianxiaozhuang/blog/tree/master/src/01/js异步.md)**
 </details>
 
@@ -39,7 +38,7 @@
 
 <!-- 2 -->
 <details open>
-<summary>七、前端跨界（ios、andriod）</summary>
+<summary>七、前端跨界（ios、andriod、hybrid）</summary>
 
 **<summary>&nbsp;&nbsp;&nbsp;&nbsp;[2.1、js](https://github.com/lianxiaozhuang/blog/tree/master/src/01/js异步.md)**
 </details>
